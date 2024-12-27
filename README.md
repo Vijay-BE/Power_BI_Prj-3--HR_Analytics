@@ -6,7 +6,7 @@ I'm excited to present HR Analytics Dashboard, a comprehensive Power BI project 
 
 HR Analytics - Power BI Project
 
-**Live Dashboard Link**: [Link](https://app.powerbi.com/groups/me/reports/ce696ef6-e049-46c9-b8f6-741537e515b5/5ab1cca16553dd12545c?experience=power-bi&bookmarkGuid=af437106102b7d31e3a0)
+**Live Dashboard Link**: [Link](https://app.powerbi.com/view?r=eyJrIjoiMTkzYzY5MTEtZWZlZi00ZTNjLWEzMzQtNjkxODlmMDk2OTc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **Linkedin Profile Link**: [Link](https://www.linkedin.com/in/vijay-v-534666209)
 
