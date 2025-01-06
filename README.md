@@ -47,7 +47,7 @@ SQL, Power BI Desktop, Excel, DAX language
    
 2. Create a measure table to aggregate and display the data using Dax functions
 
-3. Use Visulizations for charts and filters for filter dashboard\
+3. Use Visulizations for charts and filters for filter dashboard.
    
 4. Now, Add Title HR Dashboard
 
